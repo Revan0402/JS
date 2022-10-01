@@ -1,8 +1,11 @@
+'use strict'
+
+
 var a = ("Rəvan")
 var b = ("Alızadə-dir")
-var c = 27
-var d = 02
-var e = 2005
+var c = ("27")
+var d = ("02")
+var e = ("2005")
 var f = ("qaradır")
 var g = ("Teen Wolf-dur")
 var h = 2022
